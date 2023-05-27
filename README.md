@@ -1,2 +1,2 @@
 # Machine-Learning
-My AI students using Jupter notebook with Google Colab
+My AI studies using Jupter notebook in Google Colab
